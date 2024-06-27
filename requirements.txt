@@ -1,0 +1,5 @@
+feedparser
+redis
+schedule
+celery[redis]
+flask
