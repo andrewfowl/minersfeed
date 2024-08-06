@@ -6,5 +6,6 @@ feed_urls = [
         "https://investors.corescientific.com/news-events/press-releases/rss",
         "https://investors.ciphermining.com/rss/news-releases.xml",
         "https://investors.terawulf.com/news-events/press-releases/rss",
-        "https://investor.bitfarms.com/news-events/press-releases/rss"
+        "https://investor.bitfarms.com/news-events/press-releases/rss",
+        "https://investors.ciphermining.com/rss/events.xml"
     ]
